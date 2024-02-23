@@ -553,12 +553,12 @@ video {
   background-color: rgb(59 130 246 / var(--tw-bg-opacity));
 }
 
-.p-3 {
-  padding: 0.75rem;
-}
-
 .p-10 {
   padding: 2.5rem;
+}
+
+.p-3 {
+  padding: 0.75rem;
 }
 
 .text-center {
@@ -576,10 +576,6 @@ video {
 
 .capitalize {
   text-transform: capitalize;
-}
-
-.leading-6 {
-  line-height: 1.5rem;
 }
 
 .leading-10 {
